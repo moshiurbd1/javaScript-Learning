@@ -1,0 +1,14 @@
+.heading{
+    font-size: 50px;
+    color: green;
+    background-color: gray;
+}
+.heading1{
+    font-size: 50px;
+    color: red;
+    background-color: gray;
+}
+
+.b{
+    box-shadow: 5px 5px 3px black;
+}
